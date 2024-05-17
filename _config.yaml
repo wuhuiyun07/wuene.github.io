@@ -3,10 +3,10 @@ title: The Health-related Water Microbiology Lab
 subtitle: Department of Civil and Environmental Engineering
 description: Study microbioal Water Quality using molecular genetic tools and bioinformatics tools; Aiming to conduct open science research
    #An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-# header: images/icon.png
-# footer: images/MisRiver.HEIC
+header: images/icon.png
+footer: images/MisRiver.jpg
 # proofer: false
-logo: /assets/img/HWu.jpg
+# logo: /assets/img/HWu.jpg
 # site social media and other links
 links:
   email: huiyun.wu@wsu.edu
