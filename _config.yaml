@@ -1,0 +1,75 @@
+# site properties and page defaults
+title: The Health-related Water Microbiology Lab
+subtitle: Department of Civil and Environmental Engineering
+description: Study microbioal Water Quality using molecular genetic tools and bioinformatics tools; Aiming to conduct open science research
+   #An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+header: images/icon.png
+footer: images/MisRiver.HEIC
+proofer: false
+
+# site social media and other links
+links:
+  email: huiyun.wu@wsu.edu
+  orcid: 0000-0001-8935-7759
+  google-scholar: sAIJSssAAAAJ
+  github: wuhuiyun07
+  # website:
+  # twitter: YourLabHandle
+  # youtube: YourLabChannel
+
+### jekyll settings
+
+# front matter defaults
+defaults:
+  # all markdown files
+  - scope:
+      path: ""
+    values:
+      layout: default
+  # markdown files in /_members
+  - scope:
+      type: "members"
+    values:
+      layout: member
+  # markdown files in /_posts
+  - scope:
+      type: "posts"
+    values:
+      layout: post
+
+collections:
+  # generate page for each member
+  members:
+    output: true
+  # generate page for each post
+  posts:
+    output: true
+
+# jekyll plugins
+plugins:
+  - jekyll-spaceship
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-last-modified-at
+
+# code block syntax highlighting
+highlighter: rouge
+
+# jekyll theme
+theme: null
+
+# sass settings
+sass:
+  sass_dir: _styles
+
+# force jekyll to include certain files/folders
+include:
+  - _styles
+  - _scripts
+
+# force jekyll to exclude certain files/folders
+exclude:
+  - README.md
+  - LICENSE.md
+  - CITATION.cff
