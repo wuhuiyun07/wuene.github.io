@@ -1,9 +1,18 @@
 <!DOCTYPE html>
-<html lang="en" data-dark="false">
+<html>
+
   {% include head.html %}
+
   <body>
-    {% include header.html dark="false" %}
-    <main>{% include content.html content=content %}</main>
+
+	{% include header.html %}
+
+	<div class="default-wrapper">
+	    {{ content }}
+	</div>
+
     {% include footer.html %}
+
   </body>
+
 </html>
