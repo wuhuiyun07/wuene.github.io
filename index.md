@@ -3,12 +3,12 @@
 
 <!-- # The Huiyun Wu Lab -->
 
-Our lab conduct research in areas such as Microbial water quality, water reuse and cycles, bioinformatics, one health, and fate and transport models.
+Our lab conducts research in areas such as Microbial water quality, water reuse and cycles, bioinformatics, one health, and fate and transport models.
 
 
 {%
   include figure.html
-  image="assets/img/MisRiver.HEIC"
+  image="/assets/img/MisRiver.jpg"
   caption="Water Park."
   link="water"
   width="1000px"
