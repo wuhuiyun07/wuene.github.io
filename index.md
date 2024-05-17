@@ -8,7 +8,7 @@ Our lab conducts research in areas such as Microbial water quality, water reuse 
 
 {%
   include figure.html
-  image="/assets/img/MisRiver.jpg"
+  image="images/WaterPark.jpg"
   caption="Water Park."
   link="water"
   width="1000px"

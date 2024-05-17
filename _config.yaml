@@ -5,6 +5,8 @@ description: Study microbioal Water Quality using molecular genetic tools and bi
    #An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 header: images/icon.png
 footer: images/MisRiver.jpg
+header-dark: true
+
 # proofer: false
 # logo: /assets/img/HWu.jpg
 # site social media and other links
