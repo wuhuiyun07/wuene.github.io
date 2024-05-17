@@ -3,12 +3,12 @@
 
 <!-- # The Elli Papaemmanuil Lab -->
 
-Our lab is a collective of clinical, computational, molecular and mathematic research investigators with an interest in studying the role of acquired mutations in cancer development, and how these determine clinical phenotype and response to therapy. Our mission is to execute research that informs and moves clinical practices in oncology forward. We have strong expertise in genome profiling analysis, a proven track record on the development of high-throughput laboratory and analytical pipelines (bioinformatics and statistical), and integrating large and complex genomic datasets. We have formed a strong network of research and clinical collaborations to pursue innovative studies in cancer research.
+Our lab conduct microbial water research 
 
 {%
   include figure.html
-  image="images/papaemmanuil-lab.jpg"
-  caption="Papaemmanuil Lab at Memorial Sloan Kettering Cancer Center. 2019."
+  image="images/JoinUs.jpg"
+  caption="Join us."
   link="team"
   width="1000px"
 %}
@@ -17,11 +17,11 @@ Our lab is a collective of clinical, computational, molecular and mathematic res
 
 {% capture text %}
 
-We conduct research at three levels. Firstly we perform **systematic genome profiling** of large (>1000) and well-annotated patient cohorts to characterize genetic and clinical inter-relationships. We use advanced statistical modeling to study genotype-phenotype and genotype-outcome relationships as a framework for the development of molecularly guided clinical decision support algorithms to support diagnosis and prognostication of cancer patients. Such population based analysis, enable us to identify genotype combinations that are critical to disease biology, or that associate strongly with clinical presentation, response to treatment and overall survival.
+We conduct research at three levels. Firstly we apply **molecular microbiology methods** to detect microbial waterborne pathogens to characterize temporal and spatial variations of pathogens in water systems. We use advanced sequencing techniques to study microbiome in natural water and built water as a framework for the health of human, animals, and the environment. Such big data derived analysis, enable us to identify pathogens, novel microbial water indicators, or bacterial phages that can potentially combat antimicrobial resistant crisis.  
 
-These studies empower our second level research. We use population data to **characterize disease associated, outcome defining and treatment informing genotypes**. We select representative samples for detailed molecular phenotyping using integrative genomic and cell based assays to single cell characterizations.
+These studies empower our second level research. We use environmental metagenomic data to **characterize microbiome in environmental waters, identify waterborne disease associated, reduce the health risks to the environment and human**. We use machine learning for microbiome discovery, espcially viruse communities in environmental water samples.
 
-Last, we perform detailed **clonal heterogeneity tracking studies**. We profile temporally as well as spatially separated samples (diagnosis, pre-treatment, post treatment) to quantify changing clonal phylogenies, during disease progression, or in response to therapeutic intervention.
+Last, we perform our research based on **Open Science and reproducible research principle**. We profile temporally as well as spatially separated samples (diagnosis, pre-treatment, post treatment) to quantify changing clonal phylogenies, during disease progression, or in response to therapeutic intervention.
 
 {%
   include button.html
@@ -36,7 +36,7 @@ Last, we perform detailed **clonal heterogeneity tracking studies**. We profile 
 
 {%
   include feature.html
-  image="images/elli-maria.png"
+  image="images/icon.png"
   link="research"
   title="Our Research"
   text=text
@@ -46,9 +46,9 @@ Last, we perform detailed **clonal heterogeneity tracking studies**. We profile 
 
 {% capture text %}
 
-We are driving the Pediatrics Precision Medicine Initiative for the Department of Pediatrics, and support clinical translational research for the Center for Heme Malignancies at MSK.
+Our aim is to enhance resilience to water quality stresses due to climate change, promote water reuse, engage communities, and explore interdisciplinary fields like machine learning and environmental bioinformatics to mitigate the impacts of merging waterborne microbial pollutants.
 
-We benefit from a fully resourced computational and research environment. We have access to state-of-the-art computing and laboratory facilities to support truly ambitious and innovative research.
+We benefit from a fully resourced computational and research environment at Washington State University. We have access to state-of-the-art computing and laboratory facilities to support truly ambitious and innovative research.
 
 {%
   include button.html
@@ -63,7 +63,7 @@ We benefit from a fully resourced computational and research environment. We hav
 
 {%
   include feature.html
-  image="images/kids1.jpg"
+  image="images/MisRiver.jpg"
   link="tools"
   title="Our Projects"
   flip=true
@@ -73,7 +73,7 @@ We benefit from a fully resourced computational and research environment. We hav
 
 {% capture text %}
 
-We like to perform ambitious research, but operate in a fun, collaborative, and team-oriented environment, and we are strongly committed to mentoring young scientists through internal and international internship schemes.
+We like to perform ambitious research, but operate in a fun, collaborative, and team-oriented environment, and we are strongly committed to mentoring young scientists and engineers through internal and international internship schemes.
 
 **Join us:** We are looking for inspiring, motivated individuals to join our team, challenge our current understanding of cancer biology and help make new discoveries that will inform cancer care and improve patient outcomes.
 
