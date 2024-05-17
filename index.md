@@ -9,7 +9,7 @@ attibution:
 
 {% include header.html %}
 
-# The Schloss Lab
+# The Environmental Health and Engineering Lab
 
 > "...it would appear to be a pointless and doubtful exercise to examine and disentangle the apparently random appearing bacteria in normal feces and the intestinal tract, a situation that seems controlled by a thousand coincidences... Yet I have nevertheless devoted myself now for a year virtually exclusively to this special study, it was with the conviction that the accurate knowledge of these conditions is essential, for the understanding of not only the physiology of digestion..., but also the pathology and therapy of microbial intestinal diseases."
 >
