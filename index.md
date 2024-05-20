@@ -34,7 +34,7 @@ We are fortunate to reside within the [Department of Civil and Environmental Eng
 	<div class="container-fluid">
 		<div class="row vcenter">
 			<div class="col-md-4">
-				<img class="img-responsive" src="images/HWu.jpg" alt="Huiyun Wu"/>
+				<!-- <img class="img-responsive" src="images/HWu.jpg" alt="Huiyun Wu"/> -->
 			</div>
 			<div class="col-md-8">
 				<h3>Join Us!</h3>
@@ -52,14 +52,16 @@ We are fortunate to reside within the [Department of Civil and Environmental Eng
   width="50px"
 %}
 
-![River](images/Picture1.jpg)
+![River](images/river.jpg)
+
+![Huiyun Wu](images/HWu.jpg)
 
 
 <div class="blurb">
 	<div class="container-fluid">
 		<div class="row vcenter">
 			<div class="col-md-4">
-				<img class="img-responsive" src="images/Picture1.jpg" alt="River"/>
+				<img class="img-responsive" src="images/river.jpg" alt="River"/>
 			</div>
 			<div class="col-md-8">
 				<h3>Join Us!</h3>
