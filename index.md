@@ -25,7 +25,7 @@ We are fortunate to reside within the [Department of Civil and Environmental Eng
 
 ## Learn more about our research group
 
-[Science](science)
+[Research](science)
 
 [Members](members)
 
@@ -40,33 +40,20 @@ We are fortunate to reside within the [Department of Civil and Environmental Eng
 			</div>
 			<div class="col-md-8">
 				<h3>Join Us!</h3>
-				<p>I am  looking for exceptional and dedicated scientists and graduate students. It is important to me that we maintain a diverse team so that we do the best job of synergizing our experiences and interests. If you are interested in working towards a PhD at WSU, please [reach out]!(huiyun.wu@wsu.edu)
-
-
-
-
-
-
-
-
-
-
-
-
+				<p>I am  looking for exceptional and dedicated scientists and graduate students. It is important to me that we maintain a diverse team so that we do the best job of synergizing our experiences and interests. If you are interested in working towards a PhD at WSU, please [reach out]!(huiyun.wu@wsu.edu).
 
 
 
 
 <!-- # The Huiyun Wu Lab -->
 
-Our lab conduct microbial water research 
 ---
 {%
   include figure.html
   image="images/JoinUs.jpg"
   caption="Join us."
   link="team"
-  width="500px"
+  width="50px"
 %}
 
 {% include section.html %}
@@ -146,8 +133,8 @@ We like to perform ambitious research, but operate in a fun, collaborative, and 
 {% endcapture %}
 
 {%
-  include feature.html
-  image="images/lab-edge.jpg"
+  include button.html
+  image="images/MisRiver.jpg"
   link="team"
   title="Our Team"
   text=text
