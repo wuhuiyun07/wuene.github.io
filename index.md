@@ -90,7 +90,7 @@ Lastly, we perform our research based on **Open Science and reproducible researc
 
 {%
   include feature.html
-  image="images/icon.png"
+  image="images/WaterPark.jpg"
   link="research"
   title="Our Research"
   text=text
