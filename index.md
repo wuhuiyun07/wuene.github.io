@@ -52,6 +52,20 @@ We are fortunate to reside within the [Department of Civil and Environmental Eng
   width="50px"
 %}
 
+<div class="blurb">
+	<div class="container-fluid">
+		<div class="row vcenter">
+			<div class="col-md-4">
+				<img class="img-responsive" src="images/MisRiver.jpg" alt="River"/>
+			</div>
+			<div class="col-md-8">
+				<h3>Join Us!</h3>
+				<p>Missicipie River .</p>
+			</div>
+		</div>
+	</div>
+</div>
+
 {% include section.html %}
 
 {% capture text %}
