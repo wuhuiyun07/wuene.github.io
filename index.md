@@ -63,7 +63,7 @@ We are fortunate to reside within the [Department of Civil and Environmental Eng
 			</div>
 			<div class="col-md-8">
 				<h3>Join Us!</h3>
-				<p>Missicipie River .</p>
+				<p>River .</p>
 			</div>
 		</div>
 	</div>
