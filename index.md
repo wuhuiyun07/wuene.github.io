@@ -1,7 +1,7 @@
 ---
 layout: home
 category: home
-attibution:
+attribution:
   author: "xxxx"
   link_to_image: "https://www.iwcinnovations.com/hubfs/Waterborn%20Pathogen%201.jpg"
 ---
@@ -16,20 +16,19 @@ attibution:
 
 ## Our Mission
 
-Nearly 150 years later, our research group shares the dedication of Dr. Ellen Henrietta Swallow Vassar as we try to protect the environmental and human health from the exposure to *microbial pathogens*.  We now have a set of advanced tools of microbiology, molecular microbilogy, next-generation sequencing, long-reads sequencing, bioinformatics, and statistics. Our research group is dedicated to integrating across disciplines to advance our knowledge of pathogens assessments at sites (environmental, recreational, or drinking water) and to ultimately prevent infectious waterborne diseases. Microbial water quality research is experiencing an amazing period of growth and we are helping to lead that effort. If you are interested in learning more about our work please explore this site and feel free to [contact Huiyun](mailto:{{ site.email }}) with any questions.
+Nearly 150 years later, our research group shares the dedication of Dr. Ellen Henrietta Swallow Vassar as we strive to protect environmental and human health from exposure to *microbial pathogens*. We now have advanced tools in microbiology, molecular microbiology, next-generation sequencing, long-read sequencing, bioinformatics, and statistics. Our research group is dedicated to integrating across disciplines to advance our knowledge of pathogen assessments at various sites (environmental, recreational, or drinking water) and ultimately to prevent infectious waterborne diseases. Microbial water quality research is experiencing an amazing period of growth, and we are helping to lead that effort. If you are interested in learning more about our work, please explore this site and feel free to [contact Huiyun](mailto:{{ site.email }}) with any questions.
 
 ## Our Lab
 
-We are fortunate to reside within the [Department of Civil and Environmental Engineering](https://ce.wsu.edu/) at the [Washington State University](http://www.wsu.edu) [Voiland College of Engineering and Architecture ](https://vcea.wsu.edu/). Our department has a rich history of outstanding research and engineering practice in water quality, hydrology, and natural environment preservation and protection. Our lab is in the [PACCAR] environmental Technology Building (https://cplinc.com/work/projects/paccar-environmental-technology-building/), a hub of interdisciplinary research and education and a [Certified LEED New construction Gold] (https://lmnarchitects.com/project/paccar-environmental-technology-building-washington-state-university). We have direct access to qPCR, BSL2 , BSL 2+ labs, Illumina Sequencing (https://labs.wsu.edu/genomicscore/), PacBio Sequencing (https://lbb.wsu.edu/), and genotyping. Over the years we have benefited from rich collaborations with diverse colleagues in environmental engineering, microbiology and virology, and public health. These have included Drs. [Irene Xagoraraki](https://www.egr.msu.edu/~xagorara/), [Joan Rose](https://rosejo.msu.domains/), [Marirosa Molina](https://www.researchgate.net/profile/Marirosa-Molina), [Melissa Gonzales](https://sph.tulane.edu/enhs/melissa-gonzales). With great collabrations, we are passionate to address environmental challenges in environmental and human health. 
+We are fortunate to reside within the [Department of Civil and Environmental Engineering](https://ce.wsu.edu/) at [Washington State University](http://www.wsu.edu), in the [Voiland College of Engineering and Architecture](https://vcea.wsu.edu/). Our department has a rich history of outstanding research and engineering practice in water quality, hydrology, and natural environment preservation and protection. Our lab is in the [PACCAR Environmental Technology Building](https://cplinc.com/work/projects/paccar-environmental-technology-building/), a hub of interdisciplinary research and education and a [Certified LEED New Construction Gold](https://lmnarchitects.com/project/paccar-environmental-technology-building-washington-state-university). We have direct access to qPCR, BSL2, BSL 2+ labs, [Illumina Sequencing](https://labs.wsu.edu/genomicscore/), [PacBio Sequencing](https://lbb.wsu.edu/), and genotyping. Over the years, we have benefited from rich collaborations with diverse colleagues in environmental engineering, microbiology, virology, and public health. These include Drs. [Irene Xagoraraki](https://www.egr.msu.edu/~xagorara/), [Joan Rose](https://rosejo.msu.domains/), [Marirosa Molina](https://www.researchgate.net/profile/Marirosa-Molina), and [Melissa Gonzales](https://sph.tulane.edu/enhs/melissa-gonzales). Through these great collaborations, we are passionate about addressing environmental challenges in environmental and human health.
 
-## Learn more about our research group
+## Learn More About Our Research Group
 
 [Research](science)
 
 [Members](members)
 
 [Papers](papers)
-
 
 <div class="blurb">
 	<div class="container-fluid">
@@ -39,16 +38,15 @@ We are fortunate to reside within the [Department of Civil and Environmental Eng
 			</div>
 			<div class="col-md-8">
 				<h3>Join Us!</h3>
-				<p>I am  looking for exceptional and dedicated scientists and graduate students. It is important to me that we maintain a diverse team so that we do the best job of synergizing our experiences and interests. If you are interested in working towards a PhD at WSU, please [reach out]!(huiyun.wu@wsu.edu).
-      </div>
+				<p>I am looking for exceptional and dedicated scientists and graduate students. It is important to me that we maintain a diverse team to synergize our experiences and interests. If you are interested in working towards a PhD at WSU, please [reach out](mailto:huiyun.wu@wsu.edu).</p>
+			</div>
 		</div>
 	</div>
 </div>
 
-
 {%
   include figure.html
-  image="images/JoinUs.jpg"
+  image="images/MisRiver.jpg"
   caption="Join us."
   link="team"
   width="50px"
@@ -57,12 +55,11 @@ We are fortunate to reside within the [Department of Civil and Environmental Eng
 {% include section.html %}
 
 {% capture text %}
+We conduct research at three levels. Firstly, we apply **molecular microbiology methods** to detect microbial waterborne pathogens and characterize temporal and spatial variations of pathogens in water systems. We use advanced sequencing techniques to study microbiomes in natural and built water environments as a framework for human, animal, and environmental health. This big data-driven analysis enables us to identify pathogens, novel microbial water indicators, and bacterial phages that can potentially combat antimicrobial resistance.
 
-We conduct research at three levels. Firstly we apply **molecular microbiology methods** to detect microbial waterborne pathogens to characterize temporal and spatial variations of pathogens in water systems. We use advanced sequencing techniques to study microbiome in natural water and built water as a framework for the health of human, animals, and the environment. Such big data derived analysis, enable us to identify pathogens, novel microbial water indicators, or bacterial phages that can potentially combat antimicrobial resistant crisis.  
+These studies empower our second level of research. We use environmental metagenomic data to **characterize microbiomes in environmental waters, identify waterborne diseases, and reduce health risks to the environment and humans**. We employ machine learning for microbiome discovery, especially virus communities in environmental water samples.
 
-These studies empower our second level research. We use environmental metagenomic data to **characterize microbiome in environmental waters, identify waterborne disease associated, reduce the health risks to the environment and human**. We use machine learning for microbiome discovery, espcially viruse communities in environmental water samples.
-
-Last, we perform our research based on **Open Science and reproducible research principle**. We profile temporally as well as spatially separated samples (diagnosis, pre-treatment, post treatment) to quantify changing clonal phylogenies, during disease progression, or in response to therapeutic intervention.
+Lastly, we perform our research based on **Open Science and reproducible research principles**. We profile temporally and spatially separated samples (diagnosis, pre-treatment, post-treatment) to quantify changing clonal phylogenies during disease progression or in response to therapeutic intervention.
 
 {%
   include button.html
@@ -85,7 +82,7 @@ Last, we perform our research based on **Open Science and reproducible research 
 %}
 
 {% capture text %}
-Our aim is to enhance resilience to water quality stresses due to climate change, promote water reuse, engage communities, and explore interdisciplinary fields like machine learning and environmental bioinformatics to mitigate the impacts of merging waterborne microbial pollutants.
+Our aim is to enhance resilience to water quality stresses due to climate change, promote water reuse, engage communities, and explore interdisciplinary fields like machine learning and environmental bioinformatics to mitigate the impacts of emerging waterborne microbial pollutants.
 
 We benefit from a fully resourced computational and research environment at Washington State University. We have access to state-of-the-art computing and laboratory facilities to support truly ambitious and innovative research.
 
@@ -110,10 +107,9 @@ We benefit from a fully resourced computational and research environment at Wash
 %}
 
 {% capture text %}
-We like to perform ambitious research, but operate in a fun, collaborative, and team-oriented environment, and we are strongly committed to mentoring young scientists and engineers through internal and international internship schemes.
+We like to perform ambitious research while operating in a fun, collaborative, and team-oriented environment. We are strongly committed to mentoring young scientists and engineers through internal and international internship schemes.
 
-**Join us:** We are looking for inspiring, motivated individuals to join our team, challenge our current understanding of cancer biology and help make new discoveries that will inform cancer care and improve patient outcomes.
-
+**Join us:** We are looking for inspiring, motivated individuals to join our team, challenge our current understanding of cancer biology, and help make new discoveries that will inform cancer care and improve patient outcomes.
 
 {%
   include button.html
@@ -126,7 +122,7 @@ We like to perform ambitious research, but operate in a fun, collaborative, and 
 {% endcapture %}
 
 {%
-  include button.html
+  include feature.html
   image="images/MisRiver.jpg"
   link="team"
   title="Our Team"
