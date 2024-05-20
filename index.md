@@ -6,7 +6,6 @@ attibution:
   link_to_image: "https://www.iwcinnovations.com/hubfs/Waterborn%20Pathogen%201.jpg"
 ---
 
-
 {% include header.html %}
 
 # The Environmental Health and Engineering Lab
@@ -41,13 +40,12 @@ We are fortunate to reside within the [Department of Civil and Environmental Eng
 			<div class="col-md-8">
 				<h3>Join Us!</h3>
 				<p>I am  looking for exceptional and dedicated scientists and graduate students. It is important to me that we maintain a diverse team so that we do the best job of synergizing our experiences and interests. If you are interested in working towards a PhD at WSU, please [reach out]!(huiyun.wu@wsu.edu).
+      </div>
+		</div>
+	</div>
+</div>
 
 
-
-
-<!-- # The Huiyun Wu Lab -->
-
----
 {%
   include figure.html
   image="images/JoinUs.jpg"
@@ -74,7 +72,6 @@ Last, we perform our research based on **Open Science and reproducible research 
   flip=true
   style="bare"
 %}
-
 {% endcapture %}
 
 {%
@@ -88,7 +85,6 @@ Last, we perform our research based on **Open Science and reproducible research 
 %}
 
 {% capture text %}
-
 Our aim is to enhance resilience to water quality stresses due to climate change, promote water reuse, engage communities, and explore interdisciplinary fields like machine learning and environmental bioinformatics to mitigate the impacts of merging waterborne microbial pollutants.
 
 We benefit from a fully resourced computational and research environment at Washington State University. We have access to state-of-the-art computing and laboratory facilities to support truly ambitious and innovative research.
@@ -101,7 +97,6 @@ We benefit from a fully resourced computational and research environment at Wash
   flip=true
   style="bare"
 %}
-
 {% endcapture %}
 
 {%
@@ -115,7 +110,6 @@ We benefit from a fully resourced computational and research environment at Wash
 %}
 
 {% capture text %}
-
 We like to perform ambitious research, but operate in a fun, collaborative, and team-oriented environment, and we are strongly committed to mentoring young scientists and engineers through internal and international internship schemes.
 
 **Join us:** We are looking for inspiring, motivated individuals to join our team, challenge our current understanding of cancer biology and help make new discoveries that will inform cancer care and improve patient outcomes.
@@ -129,7 +123,6 @@ We like to perform ambitious research, but operate in a fun, collaborative, and 
   flip=true
   style="bare"
 %}
-
 {% endcapture %}
 
 {%
