@@ -11,27 +11,26 @@ attibution:
 
 # The Environmental Health and Engineering Lab
 
-> "...it would appear to be a pointless and doubtful exercise to examine and disentangle the apparently random appearing bacteria in normal feces and the intestinal tract, a situation that seems controlled by a thousand coincidences... Yet I have nevertheless devoted myself now for a year virtually exclusively to this special study, it was with the conviction that the accurate knowledge of these conditions is essential, for the understanding of not only the physiology of digestion..., but also the pathology and therapy of microbial intestinal diseases."
+> "The quality of life depends upon the ability of society to teach its members how to live in harmony with their environment—defined first as family, then the community, then the world and its resources."
 >
-> [Theodor Escherich (1888)](http://cid.oxfordjournals.org/content/10/6/1220.full.pdf)
+> [Dr. Ellen Henrietta Swallow Richards (1842-1911)](https://en.wikipedia.org/wiki/Ellen_Swallow_Richards)
 
 ## Our Mission
 
-Nearly 130 years later, our research group shares the dedication of Theodor Escherich as we try to understand the role of the gut microbiota in *Clostridium difficile* infections and the progression of colorectal cancer. Since Escherich found the causative agent for diarrhea, what we now call *E. coli*, a lot has happened in science. We now have a far better understanding of microbiology, molecular biology, ecology, evolutionary theory, and statistics. Our research group is dedicated to integrating across disciplines to advance our knowledge of the role of the microbiome in human health. Human microbiome research is experiencing an amazing period of growth and we are helping to lead that effort. If you are interested in learning more about our work please explore this site and feel free to [contact Pat](mailto:{{ site.email }}) with any questions.
+Nearly 150 years later, our research group shares the dedication of Dr. Ellen Henrietta Swallow Vassar as we try to protect the environmental and human health from the exposure to *microbial pathogens*.  We now have a set of advanced tools of microbiology, molecular microbilogy, next-generation sequencing, long-reads sequencing, bioinformatics, and statistics. Our research group is dedicated to integrating across disciplines to advance our knowledge of pathogens assessments at sites (environmental, recreational, or drinking water) and to ultimately prevent infectious waterborne diseases. Microbial water quality research is experiencing an amazing period of growth and we are helping to lead that effort. If you are interested in learning more about our work please explore this site and feel free to [contact Huiyun](mailto:{{ site.email }}) with any questions.
 
-## Hail to the Victors Valiant
+## Our Lab
 
-We are fortunate to reside within the [Department of Microbiology & Immunology](https://medicine.umich.edu/dept/microbiology-immunology/) at the [University of Michigan](http://www.umich.edu) [School of Medicine](https://medicine.umich.edu/medschool/). Our department has a [rich history](https://medicine.umich.edu/dept/microbiology-immunology/about-us/history) spanning the last 100 years. Our laboratory is in the [Medical Science Research Building I](https://campusinfo.umich.edu/campumdap/100) within the University of Michigan's [Host-Microbiome Initiative](https://medicine.umich.edu/medschool/research/research-strengths/host-microbiome-initiative). We have direct access to DNA sequencers, robotics, animal facilities, and anaerobic chambers. Over the years we have benefited from rich collaborations with diverse colleagues within and beyond the School of Medicine. These have included Drs. [Vincent Young](https://medicine.umich.edu/dept/microbiology-immunology/bio/young.htm), [Mack Ruffin](https://cancer.psu.edu/researchers/individual/-/researcher/5B6500F63D6B38DBE0540010E056499A/mack-ruffin-md-mph), [Jenna Wiens](http://www-personal.umich.edu/~wiensj/), [Elena Stoffel](https://www.uofmhealth.org/profile/2702/elena-martinez-stoffel-md), [Marcy Balunas](https://balunaslab.uconn.edu), and [Grace Chen](https://sites.google.com/a/umich.edu/chenlab/). With great clinical collaborators and generous patients, we are able to insure that our results have the greatest possible relevance. It's hard to imagine a better environment to carry out microbiome research today.
+We are fortunate to reside within the [Department of Civil and Environmental Engineering](https://ce.wsu.edu/) at the [Washington State University](http://www.wsu.edu) [Voiland College of Engineering and Architecture ](https://vcea.wsu.edu/). Our department has a rich history of outstanding research and engineering practice in water quality, hydrology, and natural environment preservation and protection. Our lab is in the [PACCAR] environmental Technology Building (https://cplinc.com/work/projects/paccar-environmental-technology-building/), a hub of interdisciplinary research and education and a [Certified LEED New construction Gold] (https://lmnarchitects.com/project/paccar-environmental-technology-building-washington-state-university). We have direct access to qPCR, BSL2 , BSL 2+ labs, Illumina Sequencing (https://labs.wsu.edu/genomicscore/), PacBio Sequencing (https://lbb.wsu.edu/), and genotyping. Over the years we have benefited from rich collaborations with diverse colleagues in environmental engineering, microbiology and virology, and public health. These have included Drs. [Irene Xagoraraki](https://www.egr.msu.edu/~xagorara/), [Joan Rose](https://rosejo.msu.domains/), [Marirosa Molina](https://www.researchgate.net/profile/Marirosa-Molina), [Melissa Gonzales](https://sph.tulane.edu/enhs/melissa-gonzales). With great collabrations, we are passionate to address environmental challenges in environmental and human health. 
 
 ## Learn more about our research group
 
 [Science](science)
 
-[Labbies](labbies)
+[Members](members)
 
 [Papers](papers)
 
-[Lab Business](lab_business)
 
 <div class="blurb">
 	<div class="container-fluid">
