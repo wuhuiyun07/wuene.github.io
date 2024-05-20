@@ -142,3 +142,13 @@ We like to perform ambitious research, but operate in a fun, collaborative, and 
   flip=true
   style="bare"
 %}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/lab-edge.jpg"
+  link="team"
+  title="Our Team"
+  text=text
+%}
