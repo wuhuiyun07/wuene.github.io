@@ -36,11 +36,11 @@ We are fortunate to reside within the [Department of Civil and Environmental Eng
 	<div class="container-fluid">
 		<div class="row vcenter">
 			<div class="col-md-4">
-				<img class="img-responsive" src="assets/img/pat_professional.jpg" alt="Pat Schloss"/>
+				<img class="img-responsive" src="images/HWu.jpg" alt="Huiyun Wu"/>
 			</div>
 			<div class="col-md-8">
 				<h3>Join Us!</h3>
-				<p>I am always looking for exceptional and dedicated scientists and try to maintain a balance between training graduate students and postdoctoral researchers. It is important to me that we maintain a diverse team so that we do the best job of synergizing our experiences and interests. If you are interested in working towards a PhD at Michigan, I participate in the [Program in Biomedical Sciences (PIBS)](https://medicine.umich.edu/medschool/education/phd-programs/phd-admissions
+				<p>I am  looking for exceptional and dedicated scientists and graduate students. It is important to me that we maintain a diverse team so that we do the best job of synergizing our experiences and interests. If you are interested in working towards a PhD at WSU, please [reach out]!(huiyun.wu@wsu.edu)
 
 
 
@@ -66,7 +66,7 @@ Our lab conduct microbial water research
   image="images/JoinUs.jpg"
   caption="Join us."
   link="team"
-  width="1000px"
+  width="500px"
 %}
 
 {% include section.html %}
@@ -141,14 +141,4 @@ We like to perform ambitious research, but operate in a fun, collaborative, and 
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/lab-edge.jpg"
-  link="team"
-  title="Our Team"
-  text=text
 %}
