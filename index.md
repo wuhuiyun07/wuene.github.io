@@ -52,15 +52,14 @@ We are fortunate to reside within the [Department of Civil and Environmental Eng
   width="50px"
 %}
 
-![Local Image](assets/img/MisRiver.HEIC)
-
+![River](images/Picture1.jpg)
 
 
 <div class="blurb">
 	<div class="container-fluid">
 		<div class="row vcenter">
 			<div class="col-md-4">
-				<img class="img-responsive" src="assets/img/MisRiver.HEIC" alt="River"/>
+				<img class="img-responsive" src="images/Picture1.jpg" alt="River"/>
 			</div>
 			<div class="col-md-8">
 				<h3>Join Us!</h3>
